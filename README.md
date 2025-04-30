@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **📧 satyaamohapatro@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/satyanarayan-mohapatro-95508825a) 🐙 [GitHub](https://github.com/Satya-Mohapatro)**
 
-- 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1UkBLnEB50yGW6gzh0RGTGPyFDwwqnSpg/view?usp=drive_link)](📄 [View My Resume](https://drive.google.com/file/d/1UkBLnEB50yGW6gzh0RGTGPyFDwwqnSpg/view?usp=drive_link))
+- 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1UkBLnEB50yGW6gzh0RGTGPyFDwwqnSpg/view?usp=drive_link)]
 
 - ⚡ Fun fact **I once fixed a bug by accident... and now I'm afraid to touch that code again 😅**
 
