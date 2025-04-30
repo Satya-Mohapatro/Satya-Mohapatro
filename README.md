@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **- LangChain & LLMs - Generative AI & Hugging Face Transformers - FastAPI & PostgreSQL - FlutterFlow for Cross-Platform UI - Advanced NLP & Embedded ML**
 
-- 👨‍💻 All of my projects are available at [🌐 [GitHub Portfolio](https://github.com/Satya-Mohapatro)](🌐 [GitHub Portfolio](https://github.com/Satya-Mohapatro))
+- 👨‍💻 All of my projects are available at [🌐 [GitHub Portfolio](https://github.com/Satya-Mohapatro)]
 
 - 💬 Ask me about **Java, C++, Python, Edge Devices (Arduino, Raspberry Pi, ESP 32), React.js, Streamlit, LangChain, Hugging Face, and AI projects!**
 
@@ -27,5 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satya-mohapatro&show_icons=true&locale=en" alt="satya-mohapatro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya-mohapatro&" alt="satya-mohapatro" /></p>
 
