@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyanarayan Mohapatro</h1>
 <h3 align="center">A passionate AI enthusiast from India</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Satya-Mohapatro&label=Profile%20views&color=0e75b6&style=flat" alt="Satya-Mohapatro" /> </p>
 
 ###
 
