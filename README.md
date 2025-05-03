@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java, C++, Python, Edge Devices (Arduino, Raspberry Pi, ESP 32), React.js, Streamlit, LangChain, Hugging Face, and AI projects!**
 
-- 📫 How to reach me **📧 satyaamohapatro@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/satyanarayan-mohapatro-95508825a) 🐙 [GitHub](https://github.com/Satya-Mohapatro)**
+- 📫 How to reach me **📧 satyaamohapatro@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/satyanarayan-mohapatro-95508825a) 🐙 [GitHub](https://github.com/Satya-Mohapatro) 🌐 [Portfolio](https://satyaa-portfolio.netlify.app/)**
 
 - 📄 Know about my experiences [📄 [View My Resume](https://drive.google.com/file/d/1UkBLnEB50yGW6gzh0RGTGPyFDwwqnSpg/view?usp=drive_link)]
 
