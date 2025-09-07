@@ -11,7 +11,7 @@
 </div>
 
 ###
-- 🔭 I’m currently working on **AI-Powered Lead Scoring & Follow-Up Generation System for CRM Automation**
+- 🔭 I’m currently working on **NIYOJAN – The Intelligent Bridge Between Supply & Demand**
 
 - 🌱 I’m currently learning **- LangChain & LLMs - Generative AI & Hugging Face Transformers - FastAPI & PostgreSQL - FlutterFlow for Cross-Platform UI - Advanced NLP & Embedded ML**
 
