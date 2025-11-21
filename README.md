@@ -11,8 +11,6 @@
 </div>
 
 ###
-- 🔭 I’m currently working on **NIYOJAN – The Intelligent Bridge Between Supply & Demand**
-
 - 🌱 I’m currently learning **- LangChain & LLMs - Generative AI & Hugging Face Transformers - FastAPI & PostgreSQL - FlutterFlow for Cross-Platform UI - Advanced NLP & Embedded ML**
 
 - 👨‍💻 All of my projects are available at [🌐 [GitHub Portfolio](https://github.com/Satya-Mohapatro)]
