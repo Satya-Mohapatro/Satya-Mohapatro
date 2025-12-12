@@ -27,7 +27,7 @@
 
 #  About Me
 
-### 🛰️ I’m currently working on
+###  I’m currently working on
 - AI-powered systems using **LangChain, LangGraph, and LLM agents**  
 - **Intelligent Inventory System** with forecasting + automation  
 - **Edge AI** projects using Jetson Nano, Raspberry Pi, and embedded ML  
