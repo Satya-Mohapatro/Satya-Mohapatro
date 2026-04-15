@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Satya-Mohapatro&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Satya-Mohapatro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyanarayan-mohapatro-95508825a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://satyaaportfolio.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=vercel&logoColor=white)](https://satyaaportfolio.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat&logo=vercel&logoColor=white)](https://drive.google.com/file/d/1ktVtp3_rrVs58RqWouCgnbddfS-0erMJ/view?usp=sharing)
 
 ---
 
